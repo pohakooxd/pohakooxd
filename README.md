@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi 👋, I'm 3kh0
 
-<!--
-**pohakooxd/pohakooxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "It's not a bug, it's a feature" - Andrew Tanenbaum
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Thedrcreeper",
+  "age": Why do you want to know?,
+  "intrests": ["programming", "gaming", "AI Trainer"],
+  "operatingSystem": ["Windows 10/11", "ChromeOS", "Mac OS Mojave"]
+  "browser": "Edge Canary",
+  "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
+  "programmingLanguages": ["Javascript", "HTML", "Python", "CSS", "Markdown"],
+  "editor": ["VSCode", "Replit"]
+  "contact": {
+    "discord": {
+      "server": "https://discord.gg/Ad4Jz6xP",
+      "username": "thedrcreeper#9892"
+    }
+  },
+  "learning": "How to make We@d",
+  "hasBrainDamage": true
+}
+```
+<img src="https://komarev.com/ghpvc/?username=pohakooxd&label=Amount of eyeballs that saw this&color=001eff&style=flat" alt="pohakooxd" />
